@@ -1,0 +1,32 @@
+*{
+    
+    
+}
+.Top-Part{
+    display: flex;
+    color: white;
+    padding: 2%;
+}
+
+body{
+    background-color: #6D9773;
+}
+.heading{
+    font-size: 35px;
+    margin-left: 40px;
+    margin-right: 50px;
+}
+.paragraph{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 10px;
+    text-align: left;
+}
+img{
+    width: 1400px;
+    height: 500px;
+    align-items: center;
+    align-self: center;
+    
+}
